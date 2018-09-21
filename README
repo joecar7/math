@@ -1,0 +1,4 @@
+Example math functions:
+- fib: show Fibonacci sequence upto specified value.
+- pow: calculate power of specified value.
+
